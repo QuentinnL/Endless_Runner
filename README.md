@@ -1,4 +1,2 @@
 # Endless_Runner
-# Endless_Runner
-# Endless_Runner
-# Endless_Runner
+Executez le .exe et amusez-vous !
